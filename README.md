@@ -1,1 +1,1 @@
-# w2vgensim
+Word2Vec training using gensim
