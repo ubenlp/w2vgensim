@@ -6,7 +6,7 @@ import os
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-os.chdir('C:\\Users\\Şevket\\Desktop\\Derlemler')
+os.chdir('your directory path')
 
 #Derlemi tutan değişken. 
 data_file='wikitr.txt'
