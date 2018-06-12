@@ -9,7 +9,7 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 os.chdir('your directory path')
 
 #Derlemi tutan değişken. 
-data_file='wikitr.txt'
+data_file='your_data_file.txt'
 
 #Text dosyasını okuyan method. Ayrıca her bir cümle için gensim kütüphanesi 
 #içerisinde bulunan simple_preprocess methodu ile cümle içerisindeki kelimeleri
